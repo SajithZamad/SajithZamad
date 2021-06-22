@@ -1,4 +1,4 @@
-- 👋 Hey there i'm Sajith Zamad
+- 👋 Hey there I'm Sajith Zamad
 - 👀 Graphic Designer by Morning & Programmer by Night
 - 🌱 Learning C from the scratch
 - 💞️ Passionate about coding
